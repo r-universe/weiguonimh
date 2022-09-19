@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "mMARCH.AC",
+    "oncran": true
+  }
+]
