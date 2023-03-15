@@ -2,5 +2,9 @@
   {
     "package": "mMARCH.AC",
     "oncran": true
+  },
+  {
+    "package": "rvHPDT",
+    "oncran": true
   }
 ]

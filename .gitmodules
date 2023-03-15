@@ -8,3 +8,8 @@
 	url = https://github.com/weiguonimh/mmarch.ac
 	shallow = true
 	registered = true
+[submodule "rvHPDT"]
+	path = rvHPDT
+	url = https://github.com/weiguonimh/rvhpdt
+	shallow = true
+	registered = true
