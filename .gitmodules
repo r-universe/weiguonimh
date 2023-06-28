@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "mMARCH.AC"]
 	path = mMARCH.AC
 	url = https://github.com/weiguonimh/mmarch.ac
-	shallow = true
-	registered = true
 [submodule "postGGIR"]
 	path = postGGIR
 	url = https://github.com/cran/postGGIR
-	shallow = true
-	registered = true
 [submodule "rvHPDT"]
 	path = rvHPDT
 	url = https://github.com/weiguonimh/rvhpdt
-	shallow = true
-	registered = true
