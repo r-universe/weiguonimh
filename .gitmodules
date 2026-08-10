@@ -5,9 +5,6 @@
 [submodule "mMARCH.AC"]
 	path = mMARCH.AC
 	url = https://github.com/weiguonimh/mmarch.ac
-[submodule "postGGIR"]
-	path = postGGIR
-	url = https://github.com/cran/postGGIR
 [submodule "rvHPDT"]
 	path = rvHPDT
 	url = https://github.com/weiguonimh/rvhpdt
